@@ -14,7 +14,7 @@
     --prime:#332FD0;
     }
     body{
-        background-color: #6096B4;
+        background-color:#fff;
     }
 /* navbar */
     .navbar{
@@ -262,7 +262,7 @@
         margin: 8px 0;
     }
     .register .content .frame .headline .title{
-        color: var(--prime);
+        color: #fff;
         font-size: 1.2em;
     }
     .register .content .frame p{
@@ -272,10 +272,10 @@
     }
     .register .content .frame button{
         top: 20px;
-        color: var(--prime);
+        color: #fff;
         background: transparent;
         padding: 5px 20px;
-        border:1.5px solid var(--prime);
+        border:1.5px solid #fff;
         border-radius: 5px;
         text-decoration: none;
         position: relative;
