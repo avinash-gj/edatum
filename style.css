@@ -112,10 +112,10 @@
         font-weight: normal;
     }
     .highlights b{
-        color: #fff;
+        color:#2146C7;
         font-weight: 800;
         font-family: sans-serif;
-        text-shadow:8px 8px #2146C7;
+        text-shadow:8px 8px #fff;
     }
     .highlights p{
         font-size: 2vw;
