@@ -112,10 +112,10 @@
         font-weight: normal;
     }
     .highlights b{
-        color: var(--prime);
+        color: #000;
         font-weight: 800;
         font-family: sans-serif;
-        text-shadow:2px 2px #fff;
+        text-shadow:4px 4px #fff;
     }
     .highlights p{
         font-size: 2vw;
