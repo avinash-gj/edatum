@@ -14,7 +14,7 @@
     --prime:#3C2A21;
     }
     body{
-        background-color:#E5E5CB;
+        background-color:#black;
     }
 /* navbar */
     .navbar{
@@ -221,7 +221,7 @@
         position: absolute;
         top: 0;
         left: 0;
-        height: 90%;
+        height: 110%;
         width: 100%;
         object-fit: cover;
     }
