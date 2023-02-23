@@ -65,7 +65,7 @@
         color: white;
     }
     ol li:hover a{
-        color: var(--prime);
+        color:yellow;
     }
 
 
